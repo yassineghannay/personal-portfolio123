@@ -8,7 +8,7 @@ export default function Home() {
       <main className="flex flex-col items-center justify-center min-h-screen bg-gray-100 text-center p-6">
         <h1 className="text-4xl font-bold text-blue-600">Welcome to My Portfolio!</h1>
         <p className="mt-4 text-lg text-gray-700">
-          Hi, I&apos;<span className="font-semibold">Yassine Ghannay</span>, a passionate software development student.
+          Hi, I'm <span className="font-semibold">Yassine Ghannay</span>, a passionate software development student.
         </p>
         <p className="mt-2 text-gray-600">
           Explore my skills, projects, and contact me for opportunities.
