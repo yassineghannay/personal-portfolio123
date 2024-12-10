@@ -1,7 +1,8 @@
+@import "../styles/dummy.css";
+
 @tailwind base;
 @tailwind components;
-@tailwind utilities;
-
+@tailwind utilities; 
 :root {
   --background: #ffffff;
   --foreground: #171717;
